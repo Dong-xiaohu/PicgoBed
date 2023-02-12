@@ -1,2 +1,2 @@
 # PicgoBed
-第二个图床
+Typora笔记图床
