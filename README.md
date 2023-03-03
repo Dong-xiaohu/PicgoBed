@@ -1,2 +1,2 @@
 # PicgoBed
-Typora笔记图床
+for Typora
